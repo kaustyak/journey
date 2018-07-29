@@ -9,6 +9,7 @@
   background-color: #fff;
   background-repeat: no-repeat;
   background-image: url("../images/newborn2.png");
+  background-size: 100% 100%;
 }
 @media (min-width: 768px) {
   .jumbotron {
